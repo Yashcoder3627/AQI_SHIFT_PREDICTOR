@@ -19,6 +19,10 @@
 * **Frontend:** HTML5, CSS3 (Custom Grid Layout & CSS Variables), Google Fonts (Inter)
 
 ---
+## 🖥️ Preview Dashboard
+
+![AQI Dashboard Preview](Screenshot 2026-10-03 110736.png)
+
 
 ## 📂 Project Structure
 
