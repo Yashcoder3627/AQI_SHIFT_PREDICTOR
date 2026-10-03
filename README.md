@@ -21,7 +21,7 @@
 ---
 ## 🖥️ Preview Dashboard
 
-![AQI Dashboard Preview](Screenshot 2026-10-03 110736.png)
+![AQI Dashboard Preview](preview.png)
 
 
 ## 📂 Project Structure
